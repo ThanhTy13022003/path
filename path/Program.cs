@@ -21,6 +21,9 @@ namespace path
             //3.GetdirectoryName
             string path3 = Path.GetDirectoryName(path);
             Console.WriteLine(path3);
+            //4
+            string path4 = Path.GetExtension(@"C:\Users\Lenovo\Desktop\laptrinhmang\tu hoc\path\Test\cd.txt");
+            Console.WriteLine(path4);
             Console.ReadKey();
         }
     }
