@@ -14,7 +14,9 @@ namespace path
             //1. combine
             string path = Path.Combine(@"C:\Users\Lenovo\Desktop\laptrinhmang\tu hoc\path\Test","tuhochoai.cc","concho.ccc");
             Console.WriteLine(path);
-
+             //2.ChangeExtension
+            string path2 = Path.ChangeExtension(path,"md");
+            Console.WriteLine(path2);
             Console.ReadKey();
         }
     }
