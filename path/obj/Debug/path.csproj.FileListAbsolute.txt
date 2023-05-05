@@ -1,0 +1,8 @@
+C:\Users\Lenovo\Desktop\laptrinhmang\tu hoc\path\path\bin\Debug\path.exe.config
+C:\Users\Lenovo\Desktop\laptrinhmang\tu hoc\path\path\bin\Debug\path.exe
+C:\Users\Lenovo\Desktop\laptrinhmang\tu hoc\path\path\bin\Debug\path.pdb
+C:\Users\Lenovo\Desktop\laptrinhmang\tu hoc\path\path\obj\Debug\path.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\laptrinhmang\tu hoc\path\path\obj\Debug\path.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\laptrinhmang\tu hoc\path\path\obj\Debug\path.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\laptrinhmang\tu hoc\path\path\obj\Debug\path.exe
+C:\Users\Lenovo\Desktop\laptrinhmang\tu hoc\path\path\obj\Debug\path.pdb
